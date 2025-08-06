@@ -1,0 +1,9 @@
+Txt :
+ 
+  pandas
+  numpy
+  matplotlib
+  seaborn
+  scikit-learn
+  imbalanced-learn
+  jupyter
